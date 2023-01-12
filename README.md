@@ -1,5 +1,5 @@
 # NLP- Natural Language Processing - Text Summarization
-Here, the extractive summarization is carried out using four models:  
+Here, the extractive text summarization is carried out using four models:  
 
 1)Luhn's Heuristic Method  
 2)Kullback-Leibler Method  
